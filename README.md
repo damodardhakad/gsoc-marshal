@@ -1,8 +1,7 @@
 Hello I am Damodar Dhakad from SATI Vidisha, India. I will be preparing 
 for Google Summer of Code under R organization. The project entitled as 
 
-# marshal: Saving and Loading Objects that Otherwise Cannot be Saved or 
-Exported to Parallel Workers
+# marshal: Saving and Loading Objects that Otherwise Cannot be Saved or Exported to Parallel Workers
  
 Following are the tests that I need to complete to become a good candidate for 
 the above mentioned project. 
